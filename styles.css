@@ -85,7 +85,7 @@ header a,li {
 
 /* Heading Text styling */
 .main_heading_text p {
-    padding: 1rem;
+    padding: 1rem 0;
     margin-top: 0; 
 }
 
@@ -95,6 +95,7 @@ header a,li {
 }
 
 /*cards styling*/
+
 .post_image {
     width: 100%;    
 }
@@ -106,7 +107,7 @@ header a,li {
 }
 
 .card h3 {
-  padding: 1rem;
+  text-align: center;
 }
 
 .card_pad {
@@ -115,6 +116,8 @@ header a,li {
   
 .card__text {
     font-size: 0.9rem;
+    margin: auto;
+    padding-bottom: 1rem;
 }
   
 .btn {
