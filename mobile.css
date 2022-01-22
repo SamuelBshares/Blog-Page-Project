@@ -13,13 +13,8 @@ body {
 @media screen and (max-width: 768px) {
 .main_heading {
     text-align: center;
-}
-
+}   
 .card {
-    max-width: 50%;
-    display: flex;
-    justify-content: center;
-    
+    max-width: 60%;
 }
-    
 }

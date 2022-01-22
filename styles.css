@@ -215,10 +215,12 @@ h1.article_title{
 .about_bio {
     font-size: 0.7rem;
     margin: 5px 0;
+    line-height: 1rem;
 }
 
 .about img {
     width: clamp(50px,100px,400px);
+    margin: 0 5px;
 }
 
 .about_content{
@@ -234,7 +236,6 @@ h1.article_title{
 
 .icons {
     display: flex;
-    justify-content: center;
-    padding: 0 10px;   
+    justify-content:center;
 }
 
