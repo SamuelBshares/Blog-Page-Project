@@ -1,39 +1,39 @@
-@media screen and (min-width: 1280px){
-    body {
-        display: grid;
-        grid-template-rows: 80px 1fr 150px;
-    }
+@media screen and (min-width: 1280px) {
+  body {
+    display: grid;
+    grid-template-rows: 80px 1fr 150px;
+  }
 }
 
-@media screen and (min-width: 1280px){
-    .content {
-        display: grid;
-        grid-template-columns: 2fr 1fr;
-    }
+@media screen and (min-width: 1280px) {
+  .content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
 }
 
-@media screen and (min-width: 1280px){
-    .posts {
-        padding-top: 4rem;
-        width: clamp(500px,100%,900px);
-    }
+@media screen and (min-width: 1280px) {
+  .posts {
+    padding-top: 4rem;
+    width: clamp(500px, 100%, 900px);
+  }
 }
 
-@media screen and (min-width: 1280px){
-    .posts {
-        padding-top: 8rem;
-        width: clamp(500px,100%,900px);
-    }
+@media screen and (min-width: 1280px) {
+  .posts {
+    padding-top: 8rem;
+    width: clamp(500px, 100%, 900px);
+  }
 }
 
-@media screen and (min-width: 1280px){
-    .content {
-        padding: 0 20%;
-    }
+@media screen and (min-width: 1280px) {
+  .content {
+    padding: 0 20%;
+  }
 }
 
-@media screen and (min-width: 1280px){
-    .scontainer {
-        padding: 10;
-    }
+@media screen and (min-width: 1280px) {
+  .scontainer {
+    padding: 10;
+  }
 }
